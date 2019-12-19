@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bdriano-auto-reload
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.2
 // @description  Load bdriano.de like "bdriano.de?auto=500". Script will reload the site after 500ms.
 // @author       You
 // @match        https://bdriano.de/?auto=*
